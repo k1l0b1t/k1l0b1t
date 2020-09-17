@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi! I’m vincent. I like to program all kinds of things in my spare time, mainly for the web. I’m allso student, so I’m allways looking for ways to broaden my horizon. I’m allso a cloudspotter, and have a cat “Minne”.
+
+## 📫 How to reach me
+
+You can e-mail me on `vincent@vincentlammens.be`
+
 <!--
 **k1l0b1t/k1l0b1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
