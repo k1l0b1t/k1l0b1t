@@ -15,7 +15,7 @@ You can e-mail me on `vincent@vincentlammens.be`
 
 ## 🔭 What I'm working on
 
-I'm working on 2 projects at the moment: [Monitor](https://github.com/k1l0b1t/monitor/) and a program to manage websites with a bit more ease.
+I'm working on 2 projects at the moment: [Monitor](https://github.com/k1l0b1t/monitor/) and a program to replace my current site scripts.
 
 <!--
 **k1l0b1t/k1l0b1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
