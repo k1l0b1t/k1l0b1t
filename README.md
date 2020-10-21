@@ -19,6 +19,8 @@ I'm working on 2 projects at the moment:
 - [Monitor](https://github.com/k1l0b1t/monitor/), a program to check if a server is online.
 - [sitemaker](https://github.com/k1l0b1t/sitemaker), a program to replace my current website scripts.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U62FUC8)
+
 <!--
 **k1l0b1t/k1l0b1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
