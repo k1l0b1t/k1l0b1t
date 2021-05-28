@@ -6,18 +6,7 @@ Hi! I’m vincent. I like to program all kinds of things in my spare time, mainl
 
 You can e-mail me on `vincent@vincentlammens.be`
 
-## 💬 You can ask me stuff about
-
-- Linux
-- Old computers
-- The Psion series 3
-- My projects
-
 ## 🔭 What I'm working on
-
-I'm working on 2 projects at the moment: 
-- [Monitor](https://github.com/k1l0b1t/monitor/), a program to check if a server is online.
-- [sitemaker](https://github.com/k1l0b1t/sitemaker), a program to replace my current website scripts.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U62FUC8)
 
